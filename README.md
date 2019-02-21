@@ -1,2 +1,1 @@
-# diskdynamics.github.io
-Website
+website for disk.dynamics
